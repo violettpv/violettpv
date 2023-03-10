@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React and Node.js.
 - 📫 How to reach me: poltava.violetta@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love visiting new coffee shops in my city.
+- ⚡ Fun fact: My favorite coffee drink is cappuccino.
