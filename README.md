@@ -1,4 +1,4 @@
 - 👋 Hi there! My name is Violetta. I am from Kyiv, Ukraine.
-- 🎓 BA in software engineering.
+- 🎓 Bachelor of Science in Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React and Node.js.
 - 📫 How to reach me: https://www.linkedin.com/in/violettpv/ or poltava.violetta@gmail.com
