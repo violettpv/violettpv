@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Bachelor of Science in Software Engineering.<br>📫 How to reach me: https://www.linkedin.com/in/violettpv/ or poltava.violetta@gmail.com</p>
+<p align="left">🎓 Bachelor of Science in Software Engineering.<br>📫 How to reach me: https://www.linkedin.com/in/violettpv/ or violetta.konovalchuk@gmail.com</p>
 
 ###
 
