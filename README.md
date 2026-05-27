@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Violetta and I'm a Front-end/React Developer from Kyiv, Ukraine.</p>
+<p align="left">My name is Violetta and I'm a Front-end/React Developer.</p>
 
 ###
 
